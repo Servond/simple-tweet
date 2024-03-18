@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "name": "bryan",
+      "email": "bryan@gmail.com",
+      "password": "asd123",
+      "id": 1
+    },
+    {
+      "name": "budi",
+      "email": "budi@gmail.com",
+      "password": "asd123",
+      "id": 2
+    },
+    {
+      "name": "rangga",
+      "email": "rangga@gmail.com",
+      "password": "asd123",
+      "id": 3
+    }
+  ],
+  "tweets": [
+    {
+      "userId": 1,
+      "tweet": "my first tweet",
+      "userName": "bryan",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "tweet": "my second tweet",
+      "userName": "bryan",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "tweet": "next tweet",
+      "userName": "bryan",
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "tweet": "my tweet ",
+      "userName": "budi",
+      "id": 4
+    },
+    {
+      "userId": 3,
+      "tweet": "tweet baru",
+      "userName": "rangga",
+      "id": 5
+    }
+  ]
+}
